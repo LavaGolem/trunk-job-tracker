@@ -19,7 +19,7 @@ export const JobSelector = ({
   jobIds: string[];
 }) => (
   <Stack direction="column" spacing={2}>
-    <FormControl fullWidth>
+    <FormControl fullWidth data-testid='job-id-selector'>
       <InputLabel>Job ID</InputLabel>
       <Select
         labelId="demo-simple-select-label"

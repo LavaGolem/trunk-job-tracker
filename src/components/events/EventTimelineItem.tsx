@@ -137,7 +137,7 @@ export const EventTimelineItem = ({ event }: { event: JobEvent }) => {
   const eventType: string =
     typeof event.job_event_type === "string" ? event.job_event_type : "";
   return (
-    <TimelineItem key={event.job_event_id}>
+    <TimelineItem key={event.job_event_id} data-testid='timeline-item'>
       <TimelineOppositeContent
         align="right"
         variant="body2"
