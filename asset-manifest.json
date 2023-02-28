@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trunk-job-tracker/static/css/main.d5fb206f.css",
+    "main.js": "/trunk-job-tracker/static/js/main.70b634c2.js",
+    "static/js/787.4a6330e2.chunk.js": "/trunk-job-tracker/static/js/787.4a6330e2.chunk.js",
+    "index.html": "/trunk-job-tracker/index.html",
+    "main.d5fb206f.css.map": "/trunk-job-tracker/static/css/main.d5fb206f.css.map",
+    "main.70b634c2.js.map": "/trunk-job-tracker/static/js/main.70b634c2.js.map",
+    "787.4a6330e2.chunk.js.map": "/trunk-job-tracker/static/js/787.4a6330e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5fb206f.css",
+    "static/js/main.70b634c2.js"
+  ]
+}
